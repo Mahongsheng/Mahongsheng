@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Scott Ma from NEU~ 😜
 
 <!--
 **Mahongsheng/Mahongsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![马洪升's Github Stats](https://github-readme-stats.vercel.app/api?username=Mahongsheng&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![马洪升's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahongsheng&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![马洪升's Github Stats](https://github-readme-stats.vercel.app/api?username=Mahongsheng&show_icons=true&theme=cobalt)
+
+![马洪升's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahongsheng&layout=compact&theme=cobalt)
