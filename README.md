@@ -1,19 +1,16 @@
-### Hi there, this is Scott Ma from NEU~ 😜
+# Hi there, this is Hansel Ma&#x2728;
 
-<!--
-**Mahongsheng/Mahongsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Be better than before.
 
-Here are some ideas to get you started:
+- &#x1F601;博客
+  - [个人](https://mhsfire.cn/)
+- &#x1F680;技术
+  - 前端后端都会点
+  - Java，Go和Python都会点
+  - 其他技能探索中
+- &#x1F3E0;现状
+  - 硕士在读
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**程序人生，学习终生**
+
 ![马洪升's Github Stats](https://github-readme-stats.vercel.app/api?username=Mahongsheng&show_icons=true&theme=cobalt)
-
-![马洪升's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahongsheng&layout=compact&theme=cobalt)
