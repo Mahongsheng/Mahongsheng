@@ -3,7 +3,7 @@
 > Be better than before.
 
 - &#x1F601;博客
-  - [个人](https://mhsfire.cn/)
+  - [欢迎来看我的个人博客~](https://mhsfire.cn/)
 - &#x1F680;技术
   - 前端后端都会点
   - Java，Go和Python都会点
